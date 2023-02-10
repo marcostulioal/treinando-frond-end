@@ -1,0 +1,51 @@
+
+
+
+html {
+    font-family: 'Open Sans', sans-serif;
+}
+
+header {
+    margin: 10px;
+}
+
+h1 {
+    float: left;
+    margin: 10px;
+}
+
+span{
+    color: #f27c22;
+}
+
+header a {
+    float: right;
+    margin: 10px;
+    text-decoration: none;
+}
+
+.apresentar img {
+    display: block;
+    width: 65%;
+    height: 65%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+h2 {
+    margin-top: 1px;
+    text-align: center;
+    font-size: 8rem;
+}
+
+.falando-sobre .mola {
+    width: 15%;
+    height: auto;
+    float: left;
+    margin: auto;
+}
+
+.texto {
+    margin: 10px;
+    font-size: 2.8rem;
+}
