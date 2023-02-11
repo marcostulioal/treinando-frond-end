@@ -38,14 +38,35 @@ h2 {
     font-size: 8rem;
 }
 
+.melhor-espaco {
+    margin: 5%;
+}
+
 .falando-sobre .mola {
     width: 15%;
     height: auto;
-    float: left;
     margin: auto;
+}
+
+.colocar-lado {
+    float: right;
+    width: 45%;
+    margin-top: 10%;
 }
 
 .texto {
     margin: 10px;
     font-size: 2.8rem;
 }
+
+h3 {
+    font-size: 4rem;
+    text-align: center;
+    margin-top: 20%;
+}
+
+.code img {
+    width: 10%;
+}
+
+
