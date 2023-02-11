@@ -1,4 +1,4 @@
-<h1>treinando-frond-end</h1>
+![blue minimalist computer class google header](https://user-images.githubusercontent.com/95049111/218276563-e0223663-0381-422a-95d3-b25ab200e725.png)
 
 > Status: Em desenvolvimento ⚠️
 
